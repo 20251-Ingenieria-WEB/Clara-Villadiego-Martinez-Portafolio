@@ -34,23 +34,22 @@ Ingeniería Web – Juan Pablo Arango
 ## Cómo Ejecutar el Proyecto
 
 1.	Clonar repositorio
-2.	```bash
-3.	git clone https://github.com/20251-Ingenieria-WEB/Clara-Villadiego-Martinez-Portafolio.git
+	```bash
+     git clone https://github.com/20251-Ingenieria-WEB/Clara-Villadiego-Martinez-Portafolio.git
 
-4.	Instalar dependencias 
-5.	```bash
-6.	npm install
-7.	# or
-8.	yarn install
+2.	Instalar dependencias 
+	```bash
+  	npm install
+  	# or
+  	yarn install
 
 
-9.	Arrancar el servidor
+3.  Arrancar el servidor
 
-10.	```bash
-
-11.	npm run dev
-12.	# or
-13.	yarn dev
+	```bash
+  	npm run dev
+  	# or
+     yarn dev
 
 4. Abrir  [http://localhost:3000](http://localhost:3000) en el navegador para ver el resultado.
 
